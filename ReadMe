@@ -1,4 +1,11 @@
 ＜20180520＞
-VS CODE 及び git のテスト
-ADD add
+VS CODE インストールから git　連携まで。
+・git　インストール
+・ssh 鍵作成、github に公開鍵設定
+・レポジトリ作成すぐにプッシュしてエラーになった時の対処。
+    git fetch
+    git merge --allow-unrelated-histories origin/master
+
+VS CODE 連携は何かした気がするけど、検索すれば出てくる筈
+
 // --- END ---
